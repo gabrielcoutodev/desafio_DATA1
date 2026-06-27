@@ -1,6 +1,6 @@
 # Data 3.4 / DATA1 — Modelagem Preditiva de Vendas para a Big Mart
 
-Este projeto resolve **apenas** o desafio **Data 3.4 / DATA1: Ciência de Dados e Machine Learning**, conforme solicitado no PDF do processo seletivo.
+Este projeto resolve o desafio **Data 3.4 / DATA1: Ciência de Dados e Machine Learning**, conforme solicitado no PDF do processo seletivo.
 
 O objetivo é construir uma solução de ciência de dados para prever o volume de vendas (`OutletSales`) de produtos em lojas da Big Mart, utilizando o dataset de treino e teste fornecido.
 
