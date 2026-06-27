@@ -36,7 +36,6 @@ big-mart-data1-core/
 │   ├── figures/
 │   └── models/
 ├── requirements.txt
-└── README.md
 ```
 
 ## Como executar
