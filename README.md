@@ -100,19 +100,5 @@ A solução utiliza pipelines do Scikit-Learn para reduzir risco de vazamento de
 
 As variáveis categóricas são codificadas com One-Hot Encoding. As variáveis numéricas recebem imputação por mediana. O modelo final é escolhido com base no menor RMSE na base de validação, considerando também MAE e R².
 
-## Conferência de requisitos
 
-| Requisito do Data 3.4 | Status |
-|---|---|
-| Jupyter Notebook estruturado | Atendido |
-| Documentação em Markdown no Notebook | Atendido |
-| Preparação e saneamento da base | Atendido |
-| Justificativa das decisões de limpeza e feature engineering | Atendido |
-| Análise exploratória de dados | Atendido |
-| Visualizações claras | Atendido |
-| Modelagem supervisionada para prever `OutletSales` | Atendido |
-| Train/Validation Split | Atendido |
-| Métricas RMSE, MAE e R² | Atendido |
-| Justificativa do modelo final | Atendido |
-| README | Atendido |
 
